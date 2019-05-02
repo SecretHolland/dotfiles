@@ -1,0 +1,7 @@
+selectp -t 0
+split -v -p 50
+
+selectp -t 1
+split -v -p 50
+
+
